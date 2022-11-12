@@ -2,11 +2,17 @@
 
 ![](https://komarev.com/ghpvc/?username=0x151Atomic&label=Views)
 
-A 1.18 ([1.17 version here](https://github.com/0x152/Atomic/tree/c58cad3209ea17ebff915c32a31bca8aa21c081f/builds)) fabric mod with useful features for enforcing the [Minecraft commercial use guidelines](https://account.mojang.com/documents/commercial_guidelines#:~:text=sell%20entitlements%20that%20affect%20gameplay)
+A 1.18 fabric mod with useful features for enforcing the [Minecraft commercial use guidelines](https://account.mojang.com/documents/commercial_guidelines#:~:text=sell%20entitlements%20that%20affect%20gameplay)
 on certian Minecraft servers.
 
 
-# THİS CLİENT İS DİSCONTİNUED.
+# THİS CLİENT İS DİSCONTİNUED.USE COFFEE CLİENT İNSTEAD
+
+Atomic will not get any updates
+
+# COFFEE CLİENT
+
+https://github.com/Coffee-Client/Coffee
 
 ## Installation
 
